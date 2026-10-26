@@ -1,2 +1,2 @@
-# CSS Videos
-AetherCode GEN youtube channel repo
+# HTMLoneshot
+AetherCode GEN youtube channel html oneshot repo
